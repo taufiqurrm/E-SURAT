@@ -2,9 +2,13 @@
 
 <!-- ## [Watch it on youtube](link: ) -->
 
-### Responsive Web E-SURAT MTs. Bustanul Ulum
+### Fitur E-SURAT
+1. Data
+   a. Anggota
+   b. GTK
+2. Arsip Surat
+3. Laporan
 
-Responsive Website Using Html, Css and CI
 
 
 ![Preview](/preview.png)
